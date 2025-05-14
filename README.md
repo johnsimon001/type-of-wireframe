@@ -17,11 +17,24 @@ When to Use: Early stages of design to brainstorm layout and content hierarchy.
 🔹 High-Fidelity Wireframes
 High-fidelity wireframes are detailed and closely resemble the final product. They include specific UI components, actual text, branding elements, and sometimes interactivity.
 
-Purpose: To refine and finalize visual design, gather more specific feedback, and hand off to developers.
+Purpose: To refine and finalize the visual design, gather more specific feedback, and hand it off to developers.
 
-Appearance: Polished visuals, sometimes with color, icons, and real content.
+Appearance: Polished visuals, sometimes with colour, icons, and real content.
 
 Tools Used: Figma, Adobe XD, Sketch.
 
 When to Use: Later stages of design when confirming UI decisions and preparing for development.
+
+✅ Type of Wireframe Used in This Project
+This project uses a Low-Fidelity Wireframe.
+
+Why: At this stage of the design process, the focus is on structuring the layout, planning the placement of elements, and aligning on user flow without getting distracted by visual styling.
+
+Characteristics Present:
+
+Simple black-and-white design
+
+Placeholder text and buttons
+
+No branding, color, or detailed UI components
 
